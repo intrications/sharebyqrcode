@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Share By QRCode</string>
+<string name="waitForInstall">Please exit Share By QRCode and reclick &quot;Share&quot; when Barcode Scanner is installed.</string>
+<string name="helpBlurb">To use Share By QRCode:\nFrom browser: Click Menu, More, Share Page, Share ByCode.\nFrom Youtube: Share, Share By QRCode.</string>
+</resources>
