@@ -1,0 +1,1 @@
+Uses ZXing Barcode Reader to encode QRCodes.
